@@ -1,0 +1,3 @@
+https://web.dev/articles/lcp
+https://web.dev/articles/cls
+https://web.dev/articles/fid
